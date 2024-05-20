@@ -13,7 +13,7 @@ function Publication(props) {
     return(
         <div className="border border-[#dfdeda] rounded-xl bg-white w-[775px] ">
             <div className="flex px-5 py-7 gap-5">
-                <img src="../public/foto-perfil.jpeg" alt="Foto de perfil" className="rounded-full size-12" />
+                <img src="https://i.ibb.co/5jqgpzK/foto-perfil.jpg" alt="Foto de perfil" className="rounded-full size-12" />
                 <div>
                     <h1 className="text-sm font-medium">Orlando Marcelo Conci</h1>
                     <p className="text-xs font-[Arial] text-[#767676]">🚀 ​Desarrollador Web Full Stack</p>
